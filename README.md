@@ -13,7 +13,7 @@ traffic dataset as benchmark. Our project uses two-stage architecture just like 
  
 ## Result
  
- ![orig](https://github.com/ZhangDY1994/Traffic_sign_detect/blob/master/detect_82136.jpg)
+ ![orig](https://github.com/trafficdetect/cascaded_traffic_sign/blob/master/detect_82136.jpg)
 
 ## Usage
 In the project, we have provided you with the trained model. You can run the code directly using:
